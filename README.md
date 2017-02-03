@@ -146,7 +146,7 @@ Now you can run your application in your mobile emulator or on your Android devi
 ![Successfully registered for push notifications](./images/successfulregisterforpush.jpg)
 3. Now that the device has registered for push, let's send it a notification.  Go back to the browser tab where Bluemix is open with your Push Notification instance, and click on *Manage* and then *Send Notifications*.  Enter in a message into the message box and then click the **Send** button.
 4. Huzzah!  Successful push notification received!
-![Successfully received push notification](./images/huzzah.jpg)
+![Successfully received push notification](./images/huzzah.jpg)  
 The mobile application received this message via its callback method.
 
 ### Conclusion / Further Exploration
