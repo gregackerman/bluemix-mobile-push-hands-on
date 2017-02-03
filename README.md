@@ -7,7 +7,7 @@ For more background on push notifications, and how the Bluemix push service enab
 
 This exercise is based on the following Bluemix docs, linked here for your reference.
 
-[HelloPush Cordova application for IBM MobileFirst Services on IBM Bluemix](https://github.com/ibm-bluemix-mobile-services/bms-samples-cordova-hellopush)
+[HelloPush Cordova application for IBM MobileFirst Services on IBM Bluemix](https://github.com/ibm-bluemix-mobile-services/bms-samples-cordova-hellopush)  
 [IBM Bluemix Mobile Services - Cordova Plugin Push SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-cordova-plugin-push/#configuration)  
 [Enabling Cordova applications to receive push notifications](https://console.ng.bluemix.net/docs/services/mobilepush/c_cordova_enable.html)  
 [Configuring credentials for Firebase Cloud Messaging](https://console.ng.bluemix.net/docs/services/mobilepush/t_push_provider_android.html)  
